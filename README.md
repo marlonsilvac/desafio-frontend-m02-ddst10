@@ -6,14 +6,14 @@ Este projeto tem objetivo criar um website simples, utilizando somente HTML e CS
 -CSS
 
 ## PREVIEW DO WEBSITE
-![Web_1](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2001.png)
-![Web_2](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2002.png)
-![Web_3](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2003.png)
-![Web_4](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2004.png)
+![Web_1](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2001.PNG)
+![Web_2](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2002.PNG)
+![Web_3](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2003.PNG)
+![Web_4](https://github.com/marlonsilvac/website_profissional_simplista/blob/main/assets/Preview%2004.PNG)
 
 ## COMO EXECUTAR O PROJETO
 ```bash
 #clonar o repositório
 git clone git@github.com:marlonsilvac/website_profissional_simplista.git
 
-##realizar as modificações nos arquivos das pastas 'pages' e 'css'
+#realizar as modificações nos arquivos das pastas 'pages' e 'css'
