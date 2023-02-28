@@ -1,5 +1,5 @@
 # SOBRE O PROJETO
-Este projeto tem objetivo criar um website simples, utilizando somente HTML e CSS, com alguns pequenos efeitos. O website permite a navegação para paginas com layouts diferentes, e pode servir de base para criação de websites para empresas e profissionais autônomos que desejam apresentar os serviços que realizam.
+Este projeto tem por objetivo criar um website simples, utilizando somente HTML e CSS, com alguns pequenos efeitos. O website permite a navegação para paginas com layouts diferentes, e pode servir de base para criação de websites para empresas e profissionais autônomos que desejam apresentar os serviços que realizam.
 
 ## TECNOLOGIAS UTILIZADAS
 -HTML
