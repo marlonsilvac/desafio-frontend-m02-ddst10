@@ -1,0 +1,154 @@
+header .top-menu .contact {
+    color: #5FB4A2;
+}
+
+.contact-me-conteiner {
+    display: flex;
+    width: 1110px;
+    height: 354px;
+    margin-top: 48px;
+    border-top: 1px solid #0000001a;
+    border-bottom: 1px solid #0000001a;
+}
+
+.contact-call {
+    margin-top: 48px;
+
+    width: 350px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 125px;
+    width: 635px;
+    margin-top: 48px;
+}
+
+
+p {
+    margin-bottom: 54px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.social-media-logos img {
+    padding-right: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contact-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1110px;
+    height: 426px;
+    margin-top: 47px;
+    margin-bottom: 109px;
+}
+
+.contact-form h2 {
+    height: 42px;
+    left: 0%;
+    right: 68.47%;
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+span {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.form-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 635px;
+    height: 426px;
+    left: 475px;
+    top: 593px;
+}
+
+.input-name {
+    height: 48px;
+
+    border: none;
+    color: #000000;
+    background-color: rgba(51, 50, 61, 0.1);
+    mix-blend-mode: normal;
+
+}
+
+.input-email {
+    height: 48px;
+
+    border: none;
+    color: #000000;
+    background-color: rgba(51, 50, 61, 0.1);
+    mix-blend-mode: normal;
+}
+
+.input-msg {
+    height: 96px;
+    border: none;
+    color: #000000;
+    background-color: rgba(51, 50, 61, 0.1);
+    mix-blend-mode: normal;
+}
+
+.send-btn {
+    width: 200px;
+    height: 48px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    background: #203A4C;
+
+    cursor: pointer;
+}
+
+.send-btn:hover {
+    background-color: #5FB4A2;
+}

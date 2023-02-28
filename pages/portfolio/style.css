@@ -1,0 +1,100 @@
+.main {
+    padding: 190px 214px;
+}
+
+header .top-menu .portfolio {
+    color: #5FB4A2;
+}
+
+
+.portfolio-card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1015px;
+    height: 500px;
+    margin-top: 80px;
+}
+
+.portfolio-img {
+    width: 540px;
+    height: 500px;
+}
+
+hr {
+    width: 350px;
+    height: 1px;
+
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+}
+
+.portfolio-description-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 350px;
+    height: 500px;
+    margin-right: 125px;
+}
+
+.portfolio-description-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 350px;
+    height: 500px;
+    margin-left: 125px;
+}
+
+.portfolio-card h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.portfolio-card p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.see-project-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 175px;
+    height: 48px;
+
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    border: 1px solid #33323D;
+    color: #33323D;
+    background-color: #ffffff;
+
+    cursor: pointer;
+}
+
+.see-project-btn:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}

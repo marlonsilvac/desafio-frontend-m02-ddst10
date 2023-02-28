@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header .top-menu .home {
+    color: #5FB4A2;
+}
+
+.hero-section {
+    width: 1110px;
+    height: 600px;
+    margin-bottom: 149px;
+
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: contain;
+}
+
+.resume {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    top: 243px;
+    width: 445px;
+    height: 357px;
+
+    background-color: #FAFAFA;
+}
+
+.resume-text {
+    height: 200px;
+    padding: 56px 28px 0px 27px;
+
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+
+    color: #33323D;
+}
+
+.about-me-btn {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 48px;
+    color: #FFFFFF;
+    background-color: #203A4C;
+
+    cursor: pointer;
+}
+
+.hero-section .about-me-btn:hover {
+    background-color: #5FB4A2;
+}
+
+.down-arrows-conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    background: #0000001a;
+}
+
+.down-arrows-img {
+    width: 16px;
+    height: 12px;
+}
+
+.hero-section a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 152px;
+    height: 48px;
+
+    text-decoration: none;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+    cursor: pointer;
+}
+
+.about-me {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1110px;
+    height: 601px;
+}
+
+.profile-img {
+    width: 540px;
+    height: 600px;
+    margin-right: 140px;
+}
+
+.about-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 430px;
+    height: 601px;
+}
+
+hr {
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+}
+
+
+.about-description h1 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.about-description p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.portfolio-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 204px;
+    height: 48px;
+
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    border: 1px solid #33323D;
+    color: #33323D;
+    background-color: #ffffff;
+
+    cursor: pointer;
+}
+
+.portfolio-btn:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}

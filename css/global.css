@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1111px;
+    height: 32px;
+    margin-left: 165px;
+    padding: 64px 0px 54px 0px;
+}
+
+.logo-dark {
+    width: 60px;
+    height: 32px;
+}
+
+.top-menu ul {
+    display: flex;
+    right: 0px;
+    list-style: none;
+}
+
+.top-menu ul li a {
+    justify-content: right;
+    padding-left: 42px;
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #3d3232;
+}
+
+main {
+    padding: 0px 165px;
+}
+
+
+.contact-me {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 1110px;
+    height: 84px;
+}
+
+.contact-me h1 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.contact-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 168px;
+    height: 48px;
+
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    border: 1px solid #33323D;
+    color: #33323D;
+    background-color: #ffffff;
+
+    cursor: pointer;
+}
+
+.contact-btn:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    width: 1440px;
+    height: 80px;
+    padding: 24px 165px;
+
+    background: #33323D;
+}
+
+footer .logo-light {
+    width: 61px;
+    height: 32px;
+}
+
+.bottom-menu ul {
+    display: flex;
+    list-style: none;
+    margin-left: 42px;
+}
+
+.bottom-menu ul li a {
+    padding: 42px;
+
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #ffffff;
+}
+
+.social-media {
+    position: absolute;
+    left: 1171px;
+}
+
+.social-media img {
+    padding-left: 15px;
+}
+
+.social-media a {
+    text-decoration: none;
+}
